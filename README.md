@@ -1,0 +1,4 @@
+AuthSkeleton
+============
+
+An authentication gateway..
